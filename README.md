@@ -15,7 +15,7 @@ Java语言
 
 # 客户端
 
- 支持H5、小程序、APP 
+ 支持H5、小程序、APP 、公众号
 
 
 ![extending-a-theme](/01.png)
